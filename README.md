@@ -1,12 +1,13 @@
 # flexbox-minefield
 ## Github Page URL :
-**_COMING SOON_**
+https://baysaaaa.github.io/flexbox-minefield/
 
 ## Project start date:
 06 July 2021
 
 ## Project status (latest first):
-2021-07-06 - Initializing the README
+2021-07-06 PM - Added the Github Page URL to markdown; added html and css files to repo.
+2021-07-06 AM - Initializing the README
 
 ## Project type and goal:
 Type: exercice.
